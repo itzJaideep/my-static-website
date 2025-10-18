@@ -4,11 +4,10 @@ This project demonstrates how to host and deploy a static website (HTML, CSS, Ja
 The setup ensures high availability, fault tolerance, and scalability, while integrating CI/CD automation to eliminate manual uploads. Security measures include HTTPS enforcement, firewall rules, and role-based access control (RBAC) for administrators.
 
 Key Features:
-GitHub repository for source control and automated deployment
-Static website hosted on cloud storage with CDN support
-Continuous Integration & Deployment (CI/CD) pipeline setup
-IAM roles and RBAC for secure access management
-Version tracking and rollback using Git
-Fully automated, serverless, and cost-efficient deployment
-Tools & Technologies:
-GitHub • GitHub Actions • AWS S3 / Azure Blob / GCP Storage • CloudFront / CDN • IAM • HTML • CSS • JavaScript
+1)GitHub repository for source control and automated deployment
+2)Static website hosted on cloud storage with CDN support
+3)Continuous Integration & Deployment (CI/CD) pipeline setup
+4)IAM roles and RBAC for secure access management
+5)Version tracking and rollback using Git
+6)Fully automated, serverless, and cost-efficient deployment
+7)Tools & Technologies:GitHub • GitHub Actions • AWS S3 / Azure Blob / GCP Storage • CloudFront / CDN • IAM • HTML • CSS • JavaScript
